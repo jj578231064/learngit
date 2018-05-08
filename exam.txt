@@ -3,3 +3,4 @@ ccc
 ddd
 new branch dev
 fl
+fast forward
